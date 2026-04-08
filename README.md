@@ -4,8 +4,7 @@ Summoning Snorlax on a chessboard using OpenCV Pose Estimation.
 
 ## 📺 Demo
 
-![Snorlax AR Demo](./demo.gif)
-_(Note: Make sure to replace this image with your actual screenshot!)_
+<video src="./demo.mov" controls="controls" width="600"></video>
 
 ## 📝 Description
 
